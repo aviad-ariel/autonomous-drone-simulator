@@ -4,9 +4,9 @@
 ##### Mapping
 ##### Returning to the starting Point(5 points added to score if succeeded)
 
-### Maps used in this demo:
-![Map Image 1](/p12.png)
-![Map Image 2](/p13.png)
-![Map Image 3](/p14.png)
+# Recorded Demo:
+[!["Map p12 Demo](/p12.png)](https://vimeo.com/334750344 "Click To Watch!")
+[!["Map p13 Demo ](/p13.png)](https://vimeo.com/334752133 "Click To Watch!")
+[!["Map p14 Demo ](/p13.png)](https://vimeo.com/334752464 "Click To Watch!")
 
-# Recorded Demo
+
